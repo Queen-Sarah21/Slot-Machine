@@ -5,8 +5,11 @@ The Slot Machine app is an engaging and interactive game developed using SwiftUI
 
 ## Features
 **Hexagonal Symbol Display**: The app features three unique hexagonal shapes that display different symbols such as "eating," "happy," and "love."
+
 **Spin Mechanism**: Players can spin the symbols up to six times. Each spin randomly generates symbols for the display.
+
 **Winning and Losing Logic**: The app tracks the number of spins. If all three symbols match, a winning alert is displayed. If players exceed six spins without winning, a losing alert appears.
+
 **User Alerts**: The app provides feedback through alerts, notifying players of their success or encouraging them to try again after a loss.
 
 ## Technology Used
